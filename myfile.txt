@@ -1,5 +1,5 @@
-This is my first line in my git tracked file.
-second change
+Git Introduction
+
 Agenda today: 
 1. collaborating with GitHub (cloud based source code hosting)
 
@@ -16,3 +16,11 @@ git remote add origin https://github.com/asotoolsny/gitproject.git
 git push -u origin master
 …or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+Git Collaboration with GitHub
+
+- git push
+- git set upstream origin master
+
+
+
